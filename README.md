@@ -37,4 +37,4 @@ Gameplay includes feeding, playing, sleeping, leveling up, random events, and a 
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/YourUsername/tamagotchi-pet-game.git
+git clone https://github.com/BappaSahaShuvo/tamagotchi-pet-game.git
