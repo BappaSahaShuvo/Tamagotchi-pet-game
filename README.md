@@ -5,7 +5,6 @@
 
 A **Tamagotchi-style multi-pet simulator** built with **Python** and **Tkinter**. Feed, play, and take care of your pets as they grow, level up, and face random events!  
 
-![Tamagotchi Gameplay](https://media.giphy.com/media/your-gif-link-here/giphy.gif)  
 
 ---
 
